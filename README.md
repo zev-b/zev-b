@@ -1,16 +1,25 @@
 ## Hi there 👋
-<!--
-**zev-b/zev-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>Linked-In</h2>
+<div class="linked-in" align="center">
+     <a href="https://www.linkedin.com/in/zev-bistritz-06b18732b/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+</div>
+<h2>Skills</h2>
+<div class="skill-badges" align="center">
+    <img src="https://img.shields.io/badge/JavaScript-262626?logo=javascript&logoColor=F0DB4E&style=for-the-badge" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+    <img src="https://img.shields.io/badge/HTML5-F16528?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-663399?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
+    <img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" alt="Sequelize.js" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS" />
+</div>
+<hr />
+
 ```json
 {
     "name": "Zev Bistritz",
@@ -19,7 +28,7 @@ Here are some ideas to get you started:
         "languages": ["javascript", "python", "html", "css"],
         "technologies_tools": ["express", "nodejs", "react", "flask", "redux"],
     },
-    "favorites": {
+    "passions": {
     
     },
     "projects": {
@@ -54,3 +63,7 @@ Here are some ideas to get you started:
     }
 }
 ```
+<hr />
+<div class="views">
+    <img src="![](https://komarev.com/ghpvc/?username=zev-b&style=for-the-badge&abbreviated=true)"/>
+</div>
