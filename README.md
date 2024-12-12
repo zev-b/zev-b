@@ -1,4 +1,6 @@
-## Hi there 👋
+<h2>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2FDEF7&width=436&height=51&lines=%7B+Zev+Bistritz+%7D;Welcome+to+my+Github+Profile!;More+Awesomeness+Coming+Soon!+" alt="Typing SVG" /></a>
+</h2>
 
 <h2>Linked-In</h2>
 <div class="linked-in" align="center">
