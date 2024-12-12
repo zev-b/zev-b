@@ -1,11 +1,12 @@
-<p font-size="50">
+<p style="font-size: 30;">
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2FDEF7&width=436&height=51&lines=%7B+Zev+Bistritz+%7D;Welcome+to+my+Github+Profile!;More+Awesomeness+Coming+Soon!+" alt="Typing SVG" /></a>
 </p>
 <hr />
 <div class="linked-in" align="center">
      <a href="https://www.linkedin.com/in/zev-bistritz-06b18732b/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
 </div>
-<p align="center">Skills</p>
+
+<hr />
 <div class="skill-badges" align="center">
     <img src="https://img.shields.io/badge/JavaScript-262626?logo=javascript&logoColor=F0DB4E&style=for-the-badge" alt="JavaScript" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
