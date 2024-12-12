@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+```json
 {
 "name": "Zev Bistritz",
 "linkedin": "https://www.linkedin.com/in/zev-bistritz-06b18732b/",
@@ -53,3 +53,4 @@ Here are some ideas to get you started:
         }
     }
 }
+```
