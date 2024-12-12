@@ -67,5 +67,5 @@
 ```
 <hr />
 <div class="views">
-    ![](https://komarev.com/ghpvc/?username=zev-b&style=for-the-badge&abbreviated=true)
+    <img src="https://komarev.com/ghpvc/?username=zev-b&style=for-the-badge&abbreviated=true" />
 </div>
