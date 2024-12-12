@@ -66,6 +66,6 @@
 }
 ```
 <hr />
-<div class="views">
+<div class="views" align="center">
     <img src="https://komarev.com/ghpvc/?username=zev-b&style=for-the-badge&abbreviated=true" />
 </div>
