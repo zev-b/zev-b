@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 -->
 ```json
 {
-"name": "Zev Bistritz",
-"linkedin": "https://www.linkedin.com/in/zev-bistritz-06b18732b/",
-"skills": {
-    "languages": ["javascript", "python", "html", "css"],
-    "technologies_tools": ["express", "nodejs", "react", "flask", "redux"],
+    "name": "Zev Bistritz",
+    "linkedin": "https://www.linkedin.com/in/zev-bistritz-06b18732b/",
+    "skills": {
+        "languages": ["javascript", "python", "html", "css"],
+        "technologies_tools": ["express", "nodejs", "react", "flask", "redux"],
     },
-"favorites": {
-
+    "favorites": {
+    
     },
-"projects": {
+    "projects": {
         "onceuponaneael": {
             "title": "Once_Upon_an_Easel",
             "description": "Art Gallery platform, with dynamic browse-filtering and art-managment interface",
