@@ -36,7 +36,7 @@
     "projects": {
         "onceuponaneael": {
             "title": "Once_Upon_an_Easel",
-            "description": "Art Gallery platform, with dynamic browse-filtering and art-managment interface",
+            "description": "Art Gallery platform, with dynamic browsing filters and art-managment interface",
             "stack": {
                 "backend": {
                     "languages": ["node.js"],
