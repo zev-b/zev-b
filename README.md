@@ -28,7 +28,7 @@
     "linkedin": "https://www.linkedin.com/in/zev-bistritz-06b18732b/",
     "skills": {
         "languages": ["javascript", "python", "html", "css"],
-        "technologies_tools": ["express", "nodejs", "react", "flask", "redux"],
+        "technologies_tools": ["express", "nodejs", "react", "flask", "redux"]
     },
     "passions": {
     
