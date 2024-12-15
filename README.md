@@ -27,7 +27,7 @@
     >
     <a href="https://epiphany.zevb.dev" target="_blank">
         <video autoplay loop muted playsinline width="100%" style="height: auto; display: block; margin: 0 auto;">
-            <source src="assets/epiphany-demo-vid.mp4" type="video/mp4">
+            <source src="videos/epiphany-demo-vid.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </a>
