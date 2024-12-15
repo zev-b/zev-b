@@ -22,7 +22,7 @@
 </div>
 <hr />
 
-<-- <h2 class="major">Epiphany</h2>
+<h2 class="major">Epiphany</h2>
 <span class="image main"
     >
     <a href="https://epiphany.zevb.dev" target="_blank">
@@ -32,7 +32,7 @@
         </video>
     </a>
 </span>
--->
+
 ```json
 {
     "name": "Zev Bistritz",
