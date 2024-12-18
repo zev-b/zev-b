@@ -49,49 +49,12 @@
     </a>
 </span> -->
 
-```json
-{
-    "name": "Zev Bistritz",
-    "linkedin": "https://www.linkedin.com/in/zev-bistritz-06b18732b/",
-    "skills": {
-        "languages": ["javascript", "python", "html", "css"],
-        "technologies_tools": ["express", "nodejs", "react", "flask", "redux"]
-    },
-    "passions": {
-    
-    },
-    "projects": {
-        "onceuponaneael": {
-            "title": "Once_Upon_an_Easel",
-            "description": "Art Gallery platform, with dynamic browsing filters and art-managment interface",
-            "stack": {
-                "backend": {
-                    "languages": ["node.js"],
-                    "technologies": ["express, sequelize, postgreSQL, aws s3"]
-                },
-                "frontend": {
-                    "languages": ["html", "css"],
-                    "technologies": ["react", "redux"]
-                }
-            }
-        },
-        "epiphany": {
-            "title": "Epiphany",
-            "description": "A featureful, collaborative note-taking app designed for ease of use and organization",
-            "stack": {
-                "backend": {
-                    "languages": ["python"],
-                    "technologies": ["flask", "sqlalchemy"]
-                },
-                "frontend": {
-                    "languages": ["html", "css", "typescript"],
-                    "technologies": ["react", "redux"]
-                }
-            }
-        }
-    }
-}
 ```
+- 🔭  I’m currently working on adding features to Once Upon an Easel.
+- 🌱  I’m currently studying data structures and algorithms.
+- ⚡  Fun fact: I enjoy creating art, writing music, and staying active.
+```
+
 <hr />
 <div class="views" align="center" >
     <img src="https://komarev.com/ghpvc/?username=zev-b&style=for-the-badge&abbreviated=true&label=++🫡++&color=0d8d86" />
